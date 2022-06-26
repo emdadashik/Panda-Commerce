@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&family=Roboto+Flex:wght@100;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF598B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+}
